@@ -5,12 +5,17 @@
     "branch": "main"
   },
   "indexKind": "medlab-os-backup-index",
-  "updatedAt": "2026-08-07T12:23:05.945Z",
+  "updatedAt": "2026-08-07T12:25:29.827Z",
   "backups": [
     {
       "name": "MedLab_Backup_2026-08-07T12-23-03-394Z.zip",
       "path": "medlab-os/backups/data/MedLab_Backup_2026-08-07T12-23-03-394Z.json",
       "createdAt": "2026-08-07T12:23:03.394Z"
+    },
+    {
+      "name": "MedLab_Backup_Auto.zip",
+      "path": "medlab-os/backups/data/MedLab_Backup_Auto.json",
+      "createdAt": "2026-08-07T12:25:27.358Z"
     }
   ],
   "credentialId": "18",
@@ -20,5 +25,5 @@
   "repositoryId": "18",
   "repoUrl": "https://github.com/chandresh75/demo1",
   "_kind": "browser-payload",
-  "_savedAt": "2026-08-07T12:23:05.948Z"
+  "_savedAt": "2026-08-07T12:25:29.828Z"
 }
