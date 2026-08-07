@@ -5,7 +5,7 @@
     "branch": "main"
   },
   "indexKind": "medlab-os-backup-index",
-  "updatedAt": "2026-08-07T12:28:21.844Z",
+  "updatedAt": "2026-08-07T12:28:33.349Z",
   "backups": [
     {
       "name": "MedLab_Backup_2026-08-07T12-23-03-394Z.zip",
@@ -26,14 +26,19 @@
       "name": "MedLab_Backup_2026-08-07T12-28-19-377Z.zip",
       "path": "medlab-os/backups/data/MedLab_Backup_2026-08-07T12-28-19-377Z.json",
       "createdAt": "2026-08-07T12:28:19.377Z"
+    },
+    {
+      "name": "MedLab_Backup_2026-08-07T12-28-31-052Z.zip",
+      "path": "medlab-os/backups/data/MedLab_Backup_2026-08-07T12-28-31-052Z.json",
+      "createdAt": "2026-08-07T12:28:31.052Z"
     }
   ],
-  "credentialId": "20",
-  "gitCredentialId": "20",
-  "connectionId": "20",
-  "repoId": "20",
-  "repositoryId": "20",
-  "repoUrl": "https://github.com/chandresh75/demo1",
+  "credentialId": "21",
+  "gitCredentialId": "21",
+  "connectionId": "21",
+  "repoId": "21",
+  "repositoryId": "21",
+  "repoUrl": "https://github.com/chandresh75/dsre-repo",
   "_kind": "browser-payload",
-  "_savedAt": "2026-08-07T12:28:21.846Z"
+  "_savedAt": "2026-08-07T12:28:33.351Z"
 }
