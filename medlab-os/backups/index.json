@@ -1,0 +1,24 @@
+{
+  "git": {
+    "owner": "chandresh75",
+    "repo": "demo1",
+    "branch": "main"
+  },
+  "indexKind": "medlab-os-backup-index",
+  "updatedAt": "2026-08-07T12:23:05.945Z",
+  "backups": [
+    {
+      "name": "MedLab_Backup_2026-08-07T12-23-03-394Z.zip",
+      "path": "medlab-os/backups/data/MedLab_Backup_2026-08-07T12-23-03-394Z.json",
+      "createdAt": "2026-08-07T12:23:03.394Z"
+    }
+  ],
+  "credentialId": "18",
+  "gitCredentialId": "18",
+  "connectionId": "18",
+  "repoId": "18",
+  "repositoryId": "18",
+  "repoUrl": "https://github.com/chandresh75/demo1",
+  "_kind": "browser-payload",
+  "_savedAt": "2026-08-07T12:23:05.948Z"
+}
