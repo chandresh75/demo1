@@ -6,7 +6,7 @@
   },
   "backupKind": "medlab-os-raw-json",
   "backupVersion": 1,
-  "zipBase64": "ewogICJsYWJzIjogWwogICAgewogICAgICAic3RhYmxlSWQiOiAiNDI2YjJjNGEtMWMyMy00YjM4LTkyZjctNjQ3MjQ1MWVlODYyIiwKICAgICAgIm5hbWUiOiAiTWFpbiBMYWIiLAogICAgICAiZGVzY3JpcHRpb24iOiAiSW4taG91c2UgbGFiIGNvdmVyaW5nIGFsbCBzYW1wbGUgcHJvY2Vzc2luZy4iLAogICAgICAiaXNBY3RpdmUiOiB0cnVlCiAgICB9CiAgXSwKICAibWVtYmVycyI6IFtdCn0=",
+  "zipBase64": "ewogICJsYWJzIjogWwogICAgewogICAgICAic3RhYmxlSWQiOiAiZWM1YTliNzctZmVmYS00N2I4LWE4NzktNGQ0NjI5ZDIzMTYzIiwKICAgICAgIm5hbWUiOiAiTWFpbiBMYWIiLAogICAgICAiZGVzY3JpcHRpb24iOiAiSW4taG91c2UgbGFiIGNvdmVyaW5nIGFsbCBzYW1wbGUgcHJvY2Vzc2luZy4iLAogICAgICAiaXNBY3RpdmUiOiB0cnVlCiAgICB9CiAgXSwKICAibWVtYmVycyI6IFtdCn0=",
   "_kind": "browser-payload",
-  "_savedAt": "2026-08-31T11:02:29.602Z"
+  "_savedAt": "2026-08-31T12:17:45.488Z"
 }
