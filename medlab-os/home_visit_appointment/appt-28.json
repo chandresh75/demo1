@@ -1,0 +1,12 @@
+{
+  "git": {
+    "owner": "chandresh75",
+    "repo": "demo1",
+    "branch": "main"
+  },
+  "backupKind": "medlab-os-raw-json",
+  "backupVersion": 1,
+  "zipBase64": "ewogICJzY2hlbWFWZXJzaW9uIjogMiwKICAiYXBwb2ludG1lbnRJZCI6IDI4LAogICJwYXRpZW50IjogewogICAgImlkIjogNTIsCiAgICAibmFtZSI6ICJMYWtzaG1pIEl5ZXIiLAogICAgInBob25lIjogIiIsCiAgICAicGF0aWVudElkIjogIjI2MDkwMi0wMDA4IgogIH0sCiAgImFwcG9pbnRtZW50IjogewogICAgInRpdGxlIjogIkRpYWJldGVzIFJldmlldyIsCiAgICAic3RhcnQiOiAiMjAyNi0wOS0wNVQwNjoyNjoyNy40NDdaIiwKICAgICJlbmQiOiAiMjAyNi0wOS0wNVQwNjoyNjoyNy40NDdaIiwKICAgICJub3RlcyI6ICJIYkExYyByZXZpZXciCiAgfSwKICAic2VsZWN0ZWRUZXN0cyI6IFtdLAogICJzYW1wbGVSZXF1aXJlbWVudHMiOiBbXSwKICAic3RhZ2VIaXN0b3J5IjogW10sCiAgImNyZWF0ZWRBdCI6ICIyMDI2LTA5LTAyVDA2OjI3OjA2LjYzMloiLAogICJjcmVhdGVkQnlVc2VySWQiOiAxLAogICJjcmVhdGVkQnlVc2VyTmFtZSI6ICJhbWJhbiBqaSIKfQ==",
+  "_kind": "browser-payload",
+  "_savedAt": "2026-09-02T06:27:06.640Z"
+}
