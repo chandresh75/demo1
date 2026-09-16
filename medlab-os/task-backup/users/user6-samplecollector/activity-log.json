@@ -1,0 +1,12 @@
+{
+  "git": {
+    "owner": "chandresh75",
+    "repo": "demo1",
+    "branch": "main"
+  },
+  "backupKind": "medlab-os-raw-json",
+  "backupVersion": 1,
+  "zipBase64": "ewogICJ1cGRhdGVkQXQiOiAiMjAyNi0wOS0xNlQwNzoyNToyMS43NjNaIiwKICAiZW50cmllcyI6IFsKICAgIHsKICAgICAgImFjdGlvbiI6ICJUQVNLX0FTU0lHTkVEIiwKICAgICAgInRhc2tJZCI6ICJUQVNLLTIwMjYtMDktMTYtMDAxIiwKICAgICAgInBhdGllbnROYW1lIjogImtvb2siLAogICAgICAiYnkiOiAiY2hhbmRyZXNoIG11bHRpIiwKICAgICAgImF0IjogIjIwMjYtMDktMTZUMDc6MjU6MTguMjI5WiIsCiAgICAgICJkZXRhaWxzIjogIlRlc3RzOiBXQkMgQ291bnQsIEhiQTFjLCBVcmVhIgogICAgfQogIF0KfQ==",
+  "_kind": "browser-payload",
+  "_savedAt": "2026-09-16T07:25:21.775Z"
+}
