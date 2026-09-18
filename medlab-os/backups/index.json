@@ -5,124 +5,14 @@
     "branch": "main"
   },
   "indexKind": "medlab-os-backup-index",
-  "updatedAt": "2026-09-18T06:38:35.127Z",
+  "updatedAt": "2026-09-18T06:54:07.871Z",
   "backups": [
-    {
-      "name": "MedLab_Backup_2026-08-18.zip",
-      "path": "medlab-os/backups/data/MedLab_Backup_2026-08-18.json",
-      "createdAt": "2026-08-18T15:46:55.318Z"
-    },
-    {
-      "name": "MedLab_Backup_2026-08-19.zip",
-      "path": "medlab-os/backups/data/MedLab_Backup_2026-08-19.json",
-      "createdAt": "2026-08-19T07:24:19.094Z"
-    },
-    {
-      "name": "MedLab_Backup_2026-08-20.zip",
-      "path": "medlab-os/backups/data/MedLab_Backup_2026-08-20.json",
-      "createdAt": "2026-08-20T15:42:27.974Z"
-    },
-    {
-      "name": "MedLab_Backup_2026-08-21.zip",
-      "path": "medlab-os/backups/data/MedLab_Backup_2026-08-21.json",
-      "createdAt": "2026-08-21T10:45:47.112Z"
-    },
-    {
-      "name": "MedLab_Backup_2026-08-24.zip",
-      "path": "medlab-os/backups/data/MedLab_Backup_2026-08-24.json",
-      "createdAt": "2026-08-24T12:44:42.107Z"
-    },
-    {
-      "name": "MedLab_Backup_2026-08-25.zip",
-      "path": "medlab-os/backups/data/MedLab_Backup_2026-08-25.json",
-      "createdAt": "2026-08-25T09:36:13.628Z"
-    },
-    {
-      "name": "MedLab_Backup_2026-08-26.zip",
-      "path": "medlab-os/backups/data/MedLab_Backup_2026-08-26.json",
-      "createdAt": "2026-08-26T03:51:48.273Z"
-    },
-    {
-      "name": "MedLab_Backup_2026-08-27.zip",
-      "path": "medlab-os/backups/data/MedLab_Backup_2026-08-27.json",
-      "createdAt": "2026-08-27T06:47:12.987Z"
-    },
-    {
-      "name": "MedLab_Backup_2026-08-31.zip",
-      "path": "medlab-os/backups/data/MedLab_Backup_2026-08-31.json",
-      "createdAt": "2026-08-31T12:31:55.125Z"
-    },
-    {
-      "name": "MedLab_Backup_2026-09-01.zip",
-      "path": "medlab-os/backups/data/MedLab_Backup_2026-09-01.json",
-      "createdAt": "2026-09-01T05:17:24.389Z"
-    },
-    {
-      "name": "MedLab_Backup_2026-09-02.zip",
-      "path": "medlab-os/backups/data/MedLab_Backup_2026-09-02.json",
-      "createdAt": "2026-09-02T16:11:21.662Z"
-    },
-    {
-      "name": "MedLab_Backup_2026-09-03.zip",
-      "path": "medlab-os/backups/data/MedLab_Backup_2026-09-03.json",
-      "createdAt": "2026-09-03T11:13:43.010Z"
-    },
-    {
-      "name": "MedLab_Backup_2026-09-05.zip",
-      "path": "medlab-os/backups/data/MedLab_Backup_2026-09-05.json",
-      "createdAt": "2026-09-05T12:10:00.536Z"
-    },
-    {
-      "name": "MedLab_Backup_2026-09-07.zip",
-      "path": "medlab-os/backups/data/MedLab_Backup_2026-09-07.json",
-      "createdAt": "2026-09-07T16:46:08.170Z"
-    },
-    {
-      "name": "MedLab_Backup_2026-09-08.zip",
-      "path": "medlab-os/backups/data/MedLab_Backup_2026-09-08.json",
-      "createdAt": "2026-09-08T04:40:55.002Z"
-    },
-    {
-      "name": "MedLab_Backup_2026-09-09.zip",
-      "path": "medlab-os/backups/data/MedLab_Backup_2026-09-09.json",
-      "createdAt": "2026-09-09T10:47:58.679Z"
-    },
-    {
-      "name": "MedLab_Backup_2026-09-10.zip",
-      "path": "medlab-os/backups/data/MedLab_Backup_2026-09-10.json",
-      "createdAt": "2026-09-10T18:26:01.043Z"
-    },
-    {
-      "name": "MedLab_Backup_2026-09-11.zip",
-      "path": "medlab-os/backups/data/MedLab_Backup_2026-09-11.json",
-      "createdAt": "2026-09-11T11:58:48.111Z"
-    },
-    {
-      "name": "MedLab_Backup_2026-09-14.zip",
-      "path": "medlab-os/backups/data/MedLab_Backup_2026-09-14.json",
-      "createdAt": "2026-09-14T10:27:25.759Z"
-    },
-    {
-      "name": "MedLab_Backup_2026-09-15.zip",
-      "path": "medlab-os/backups/data/MedLab_Backup_2026-09-15.json",
-      "createdAt": "2026-09-15T12:30:01.523Z"
-    },
-    {
-      "name": "MedLab_Backup_2026-09-16.zip",
-      "path": "medlab-os/backups/data/MedLab_Backup_2026-09-16.json",
-      "createdAt": "2026-09-16T12:35:15.421Z"
-    },
-    {
-      "name": "MedLab_Backup_2026-09-17.zip",
-      "path": "medlab-os/backups/data/MedLab_Backup_2026-09-17.json",
-      "createdAt": "2026-09-17T12:29:12.912Z"
-    },
     {
       "name": "MedLab_Backup_2026-09-18.zip",
       "path": "medlab-os/backups/data/MedLab_Backup_2026-09-18.json",
-      "createdAt": "2026-09-18T06:38:26.253Z"
+      "createdAt": "2026-09-18T06:53:28.550Z"
     }
   ],
   "_kind": "browser-payload",
-  "_savedAt": "2026-09-18T06:38:35.134Z"
+  "_savedAt": "2026-09-18T06:54:07.877Z"
 }
